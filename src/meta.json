@@ -1,0 +1,5 @@
+{
+    "@include": "*",
+    "@match": "https://scholar.google.com/*",
+    "@run-at": "document-end"
+}
